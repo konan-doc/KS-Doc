@@ -1,4 +1,5 @@
 site_name: Konan Search
+site_url: https://konan-doc.github.io/KS-Doc/
 theme:
   name: 'material'
 
