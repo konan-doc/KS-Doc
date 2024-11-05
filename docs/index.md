@@ -1,4 +1,4 @@
-# Welcome to MkDocs docs first
+# 맨 앞 화면
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
