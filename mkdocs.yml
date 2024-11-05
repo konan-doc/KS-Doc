@@ -1,8 +1,12 @@
-site_name: Konan Search  # KS 제품명
+site_name: Konan Search
 theme:
   name: 'material'
 
 nav:
-  - Version 4: docs/v4/index.md
-  - Version 5: docs/v5/index.md
-  - Version 6: docs/v6/index.md
+  - Home: index.md          # 메인 페이지
+  - Version 4:
+      - Introduction: v4/index.md   # docs/v4/index.md로 자동으로 인식됨
+  - Version 5:
+      - Introduction: v5/index.md   # docs/v5/index.md로 자동으로 인식됨
+  - Version 6:
+      - Introduction: v6/index.md   # docs/v6/index.md로 자동으로 인식됨
