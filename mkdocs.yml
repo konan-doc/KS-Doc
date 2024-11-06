@@ -1,8 +1,10 @@
 site_name: Konan Search
-site_url: https://konan-doc.github.io/KS-Doc/
+
 theme:
   name: 'material'
-
+  logo: 'images/CI.png'
+  favicon: 'images/favicon.ico'
+  
 nav:
   - Home: index.md          # 메인 페이지
   - Version 4:
@@ -11,3 +13,6 @@ nav:
       - Introduction: v5/index.md   # docs/v5/index.md로 자동으로 인식됨
   - Version 6:
       - Introduction: v6/index.md   # docs/v6/index.md로 자동으로 인식됨
+      
+extra:
+  generator: false
